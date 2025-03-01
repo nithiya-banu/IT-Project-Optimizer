@@ -2,5 +2,5 @@ node_modules/
 *.log
 .env
 dist/
-rf_model_project_delay.pkl
-rf_model_client_satisfaction.pkl
+*.pkl
+
