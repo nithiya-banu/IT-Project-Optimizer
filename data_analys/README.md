@@ -105,4 +105,5 @@ Model performance is enhanced via hyperparameter tuning and evaluated similarly 
 ### Visualizations:
 A set of plots is generated to provide insights into project delays, client satisfaction, and other key metrics.
 
-
+## Download Pre-Trained Model
+To use the trained model, download it from [Google Drive]([YOUR_LINK_HERE](https://drive.google.com/drive/folders/1MleIBVlktlS4uc4VywlNvEfg_k-1Rsbw?usp=sharing)) and place it in the project directory.
